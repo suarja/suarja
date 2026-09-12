@@ -11,7 +11,7 @@ Full-stack developer. TypeScript (React, Next.js, React Native, Convex) and Symf
 **Before**
 
 - Front-end developer at JustGains (fitness startup), sole front-end dev for a year on a React/TypeScript app.
-- Certified Spanish teacher from 2020 to 2024, learned to code on the side from 2022.
+- Certified Spanish teacher from 2020 to February 2025, learned to code on the side from 2022.
 
 **How I work with AI**
 
